@@ -1,16 +1,18 @@
-### Hi there 👋
+# Кто я?
 
-<!--
-**ANZania/ANZania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий frontend-разработчик с опытом командной разработки. 
+Имею опыт организации работы команды, знаю основы дизайна (Figma, Photoshop), владею английским языком на уровне advanced (C1). 
+Работаю с технологиями:
+- **HTML5, CSS3, JS ES6+** 
+- **Sass, SCSS**
+- **Webpack, ESLint**
+- **React, React-hooks, Redux, Redux-thunk**
+- **React Native & Expo**
 
-Here are some ideas to get you started:
+# Проекты:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ Мобильное приложение для AEROSPACE-AGRO
+](https://github.com/ANZania/hack-app)  пэт-проект (создан на хакатоне)
+- [Мобильное приложение для task-менеджмента](https://github.com/IwanMaks/ToDoRNApp) пэт-проект
+- [Веб-сервис для ресторана-бургерной](https://github.com/ANZania/bullko) пэт-проект
+- [Сайт ветеринарной аптеки](https://vet-yug.ru/) коммерческий проект
