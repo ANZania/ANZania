@@ -11,6 +11,7 @@
 
 # Проекты:
 
+- [ Многопользовательская игра о разведении лошадей](https://github.com/ANZania/equillection) пэт-проект (в разработке)
 - [ Мобильное приложение для AEROSPACE-AGRO
 ](https://github.com/ANZania/hack-app)  пэт-проект (создан на хакатоне)
 - [Мобильное приложение для task-менеджмента](https://github.com/IwanMaks/ToDoRNApp) пэт-проект
