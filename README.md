@@ -17,3 +17,5 @@
 - [Мобильное приложение для task-менеджмента](https://github.com/IwanMaks/ToDoRNApp) пэт-проект
 - [Веб-сервис для ресторана-бургерной](https://github.com/ANZania/bullko) пэт-проект
 - [Сайт ветеринарной аптеки](https://vet-yug.ru/) коммерческий проект
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANZania)](https://github.com/anuraghazra/github-readme-stats)
